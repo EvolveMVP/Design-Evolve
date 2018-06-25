@@ -1,0 +1,126 @@
+@media only screen and (min-width: 991px){
+#pgc-378-0-0{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#pgc-378-0-1{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+}
+
+label{
+	font-weight: 400 !important;
+    font-size: 15px !important;
+	margin-bottom: 5px;
+}
+
+input{
+	width: 100%;
+}
+.mc-field-group{
+    margin-bottom: 20px;
+}
+
+#mce-MMERGE4{
+	width: 100%;
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 0px none #580e30;
+	/*ed
+    border: 0px none #580e30;
+    background: #580e30;
+    color: #ffffff;*/
+}
+#mce-MMERGE3{
+	width: 100%;
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 0px none #580e30;
+	/*ed
+    border: 0px none #580e30;
+    background: #580e30;
+    color: #ffffff;*/
+}
+#mce-MMERGE2{
+	width: 100%;
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 5px;
+	/*ed
+    border: 0px none #580e30;
+    background: #580e30;
+    color: #ffffff;*/
+}
+#mce-FNAME{
+	width: 100%;
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 5px;
+	/* ed
+    border: 0px none #580e30;
+    background: #580e30;
+    color: #ffffff;*/
+}
+#mce-EMAIL{
+	width: 100%;
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 5px;
+	/* ed
+    border: 0px none #580e30;
+    background: #580e30;
+    color: #ffffff;*/
+}
+#mc-embedded-subscribe {background-color:#381940 !important;     border: none !important;}
+
+@media only screen and (min-width: 991px){
+	#contact-form-fe31 > div.sow-form-field.sow-form-field-name{	
+	display: inline-block;
+    vertical-align: top;
+	width:40%;
+}
+	#contact-form-fe31  > div.sow-form-field.sow-form-field-email{	
+	display: inline-block;
+    vertical-align: top;
+	width:40%;
+}
+	#contact-form-fe31  > div.sow-submit-wrapper.sow-submit-styled{	
+	display: inline-block;
+    vertical-align: top;
+	width:18%;
+}
+	#contact-form-fe31  > div.sow-submit-wrapper.sow-submit-styled > input{
+		height:50px;
+	}
+	#contact-form-fe31 {width:800px; margin:0 auto;}
+	
+}
+#sow-editor-4{
+	background-color:#e2e2e2;
+	padding: 20px !important;}
+
+
+/* All Mobile Sizes */
+	@media only screen and (max-width: 767px) {
+		.mobileh1{font-size: 2.3em; text-align: center;
+}
+		#pg-378-0 > div{padding:50px 15px !important;}
+
+		#panel-378-0-0-0 > div > div > div > p{text-align:center;}
+}
